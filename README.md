@@ -98,3 +98,4 @@ Implement reinforcement learning strategies
 Deploy on cloud (AWS/GCP) with auto-restart & failover
 
 Add GUI dashboard for monitoring bot performance
+<img width="2928" height="3835" alt="trading-bot" src="https://github.com/user-attachments/assets/9ad8d544-c92a-4b6a-81b1-8726a390587d" />
