@@ -81,13 +81,13 @@ RISK_MAX_DAILY_LOSS=0.05  # Max daily loss % before bot stops
 
 
 ### 📈 Strategy Development
-# ML Models: Use historical OHLCV + orderbook depth to train models (LSTM, transformers, CNNs, etc.)
+ML Models: Use historical OHLCV + orderbook depth to train models (LSTM, transformers, CNNs, etc.)
 
-# LLM Signals: Feed latest indicators, market summaries, and news into an LLM prompt
+LLM Signals: Feed latest indicators, market summaries, and news into an LLM prompt
 
-# Hybrid Decision: Combine ML probability output with LLM confidence score
+Hybrid Decision: Combine ML probability output with LLM confidence score
 
-# Risk Filter: Pass only high-confidence trades to execution layer
+Risk Filter: Pass only high-confidence trades to execution layer
 
 
 ### 💡 Future Improvements
