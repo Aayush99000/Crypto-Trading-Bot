@@ -8,7 +8,7 @@ This project is an **automated cryptocurrency trading bot** that:
 - Combines **machine learning models** for price prediction with **Large Language Models (LLMs)** for signal reasoning and sentiment analysis
 - Places **spot** and **futures** trades automatically (limit and market orders supported)
 - Includes a **risk management layer** to prevent overexposure
-- Supports **paper trading** on exchange testnets before going live
+- Supports **paper trading** on exchange testnets before going live..
 
 > ⚠️ **Disclaimer**: This bot is for educational purposes only. Cryptocurrency trading carries significant financial risk. Use at your own risk.
 
